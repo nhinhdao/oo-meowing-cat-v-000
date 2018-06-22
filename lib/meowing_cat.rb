@@ -5,3 +5,6 @@ class Cat
         puts "meow!"
     end
 end
+
+kitty = Cat.new("Nhinh")
+kitty.meow
