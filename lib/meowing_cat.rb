@@ -8,4 +8,5 @@ end
 
 kitty = Cat.new
 kitty.name = "Nhinh"
+kitty.name
 kitty.meow
