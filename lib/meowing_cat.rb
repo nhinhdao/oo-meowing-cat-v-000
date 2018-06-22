@@ -6,5 +6,6 @@ class Cat
     end
 end
 
-kitty = Cat.new("Nhinh")
+kitty = Cat.new
+kitty.name = "Nhinh"
 kitty.meow
